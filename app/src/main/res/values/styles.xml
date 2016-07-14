@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="loadMoreProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDuration">1000</item>
+        <item name="android:indeterminateDrawable">@drawable/loadmore_progress_bar_anim</item>
+    </style>
+
+    <style name="vc_0_0_1_newsfeed_load_more_text">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/common_color_909090</item>
+    </style>
+
+    <style name="progressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDuration">1000</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_bar_anim</item>
+    </style>
+
+</resources>

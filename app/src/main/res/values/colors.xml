@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="home_free_bg">#f2f2f2</color>
+    <color name="common_color_909090">#909090</color>
+
+    <color name="common_red_button_bg_default_solid">#FD5E50</color>
+    <color name="common_red_button_bg_press_solid">#80FD5E50</color>
+    <color name="common_blue_button_bg_default_solid">#2F9BFF</color>
+    <color name="common_blue_button_bg_press_solid">#802F9BFF</color>
+    <color name="common_button_bg_diable_solid">#D5D5D5</color>
+
+
+    <color name="common_white_button_bg_default_solid">#ffffff</color>
+    <color name="common_white_button_bg_press_solid">#80ffffff</color>
+    <color name="common_white_button_bg_border">#CFCFCF</color>
+
+</resources>
