@@ -288,6 +288,7 @@ public class XRecyclerView2 extends RecyclerView{
                                 mRefreshHeader.mCurrentState = DONE;
                                 mRefreshHeader.changeHeaderViewByState(DONE);
                                 // 由DOne或者下拉刷新状态转变到done状态
+                                 mIsOnInterceptTouchEvent = false;
                             }
                         }
 //
